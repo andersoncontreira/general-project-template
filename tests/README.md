@@ -17,7 +17,7 @@ Description of the folder structure and concepts
 * Base tests for the TDD process;
 * Tests focused on the behavior, scenarios and data of the project process;
 * Tests to be executed locally in a docker suite that will provide local access to resources such as databases and the like;
-* The duration of these will depend on the scenarios developed, but the idea of ​​these tests is to explore several possible scenarios;
+* The duration of these will depend on the scenarios developed, but the idea of these tests is to explore several possible scenarios;
 
 ## References
 * https://martinfowler.com/articles/microservice-testing/
