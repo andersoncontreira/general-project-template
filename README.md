@@ -1,4 +1,4 @@
-# general-project-template
+# general-project-template  (Work in progress...)
 Template for all others projects with common files already present on the project folders like scripts, editorconfig, etc.
 
 [//]: # ([![linting: pylint]&#40;https://img.shields.io/badge/linting-pylint-yellowgreen&#41;]&#40;https://github.com/PyCQA/pylint&#41;)
